@@ -1,0 +1,1 @@
+{"name":"Local: B_String_Construction","url":"d:\\DSA\\Strings\\B_String_Construction.cpp","tests":[{"id":1785259044754,"input":"8\n5 2\n4 3\n6 1\n5 0\n7 3\n4 2\n3 2\n7 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Strings\\B_String_Construction.cpp","group":"local","local":true}
