@@ -1,0 +1,1 @@
+{"name":"Local: aa","url":"d:\\DSA\\Contests\\Codeforces_Round_1116_09aug_2026\\aa.cpp","tests":[{"id":1786291955902,"input":"4\n5\n00110\n6\n001010\n5\n01010\n6\n111111\n","output":"2\n3\n1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Contests\\Codeforces_Round_1116_09aug_2026\\aa.cpp","group":"local","local":true}
