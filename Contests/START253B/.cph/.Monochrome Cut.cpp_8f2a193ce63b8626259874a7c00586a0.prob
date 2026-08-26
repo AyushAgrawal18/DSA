@@ -1,0 +1,1 @@
+{"name":"Local: Monochrome Cut","url":"d:\\DSA\\Contests\\START253B\\Monochrome Cut.cpp","tests":[{"id":1787756443816,"input":"4\n2\n7 3\n01\n4\n4 9 2 6\n0110\n5\n8 3 10 7 5\n01011\n6\n5 9 2 8 6 4\n100110","output":"10\n15\n18\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Contests\\START253B\\Monochrome Cut.cpp","group":"local","local":true}

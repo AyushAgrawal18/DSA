@@ -1,0 +1,1 @@
+{"name":"Local: Flower Reversal","url":"d:\\DSA\\Contests\\START253B\\Flower Reversal.cpp","tests":[{"id":1787755515250,"input":"4\n3\n000\n6\n000111\n5\n00110\n5\n01010","output":"2\n4\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Contests\\START253B\\Flower Reversal.cpp","group":"local","local":true}
